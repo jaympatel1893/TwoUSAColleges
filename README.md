@@ -1,6 +1,6 @@
 This is Basic Implementation of Google Maps API
 
-It will give route between two colleges in USA.
+It will give route and distance between two colleges in USA.
 
 Here is a [demo](https://cdn.rawgit.com/jaythegenius48/TwoUSAColleges/master/direction.html).
 
@@ -11,7 +11,7 @@ And,
 
 ![alt tag](https://github.com/jaythegenius48/TwoUSAColleges/blob/master/2.png)
 
-Coming next:
+New Feature
 =============
 
 Distance between those two Universities.
