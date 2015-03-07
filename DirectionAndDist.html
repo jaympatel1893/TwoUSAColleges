@@ -100,7 +100,7 @@ function calcRoute() {
     var address2 = document.getElementById("end").value;
 
     var startLat, startLong, endLat, endLong;
-   var Firstlatlng , Secondlatlng;
+    var Firstlatlng , Secondlatlng;
     geocoder.geocode( { 'address': address}, function(results, status) {
         if (status == google.maps.GeocoderStatus.OK) {
 
