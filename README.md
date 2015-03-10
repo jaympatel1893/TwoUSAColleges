@@ -12,4 +12,4 @@ Distance between those two Universities.
 Upcoming Feature:
 =============
 
-Add Universities
+Add University
