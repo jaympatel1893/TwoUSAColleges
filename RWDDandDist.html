@@ -182,7 +182,7 @@ function codeAddress()
 
             
 
-            alert(latValue+":"+longValue);
+            //alert(latValue+":"+longValue);
 
             var latlng = new google.maps.LatLng(latValue, longValue);
 
@@ -191,7 +191,7 @@ function codeAddress()
                     if(results[0]) {
                         //$('#address_current').text(results[0].formatted_address);
 
-                        alert(results[0].formatted_address);
+                        //alert(results[0].formatted_address);
 
                         var one = document.getElementById('start');
                         var newOption = document.createElement("option");
@@ -205,7 +205,7 @@ function codeAddress()
                         newOption2.value = results[0].formatted_address;
                         two.appendChild(newOption2);
 
-
+                        alert(address+" is now added!");
 
 
                     } else {
