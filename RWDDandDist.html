@@ -28,7 +28,7 @@
 
                       
                             <!-- <label>Start</label> -->
-                                <select id="start">
+                                <select id="start" class="form-control">
                                   <option selected="selected"> First College</option>
                                   
 
@@ -68,7 +68,7 @@
                                 <br>
                                 <br>
                                 <!-- <label>End</label> -->
-                                <select id="end" onchange="calcRoute();">
+                                <select id="end" onchange="calcRoute();" class="form-control">
                                   <option selected="selected"> Second College</option>
 
 
@@ -110,10 +110,12 @@
                                 <br>
         
                                 
-                                    <label><h3>Add college:</h3></label>
+                                    <label ><h3>Add college:</h3></label>
                                     <br>
-                                    <input type="text" id="college" name="college" placeholder="Enter Full Name">
-                                    <button onclick="codeAddress()" class="btn btn-primary"> Add</button>    
+                                    <input type="text" class="form-control" id="college" name="college" placeholder="Enter Full Name">
+                                    <br>
+                                    <button onclick="codeAddress()" class="btn btn-block btn-default"> Add</button>    
+                                    <br>
                                 
                     </div>
                     
