@@ -4,12 +4,9 @@ It will give route and distance between two colleges in USA.
 
 Here is a [demo](https://rawgit.com/jaythegenius48/TwoUSAColleges/master/RWDDandDist.html).
 
-New Feature
+New Features
 =============
 
-Distance between those two Universities.
+1. Distance between those two Universities.
 
-Upcoming Feature:
-=============
-
-Add University
+2. Add your own University.
