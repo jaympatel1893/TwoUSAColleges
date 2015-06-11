@@ -2,7 +2,7 @@ This is Basic Implementation of Google Maps API
 
 It will give route and distance between two colleges in USA.
 
-Here is a [demo](https://rawgit.com/jaythegenius48/TwoUSAColleges/master/RWDDandDist.html).
+Here is a [demo](https://rawgit.com/jaympatel1893/TwoUSAColleges/master/RWDDandDist.html).
 
 New Features
 =============
